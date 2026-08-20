@@ -36,7 +36,7 @@ carry a disproportionately higher share of severe accidents than signal-controll
 co-occur with higher-severity accidents at rates meaningfully above chance (lift > 1.2).
 
 **Forecasting:** Short-term trend structure is statistically detectable (ARIMA(1,1,1), 
-p < 0.001), but 24 months of data isn't enough to reliably fit a seasonal model — a 
+p < 0.001), but 24 months of data isn't enough to reliably fit a seasonal model therefore the 
 seasonal SARIMA produced unstable, non-significant estimates. Forecasts are shown with 
 confidence intervals, and should be read as indicative rather than precise.
 
